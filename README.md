@@ -31,8 +31,6 @@ Defined a binary classification threshold (w1 = 30 cycles) to classify engine fa
 
 Evaluated model performance using:
 Confusion Matrix
-ROC Curve
-Accuracy Score
 
 Model Insights:
 Visualized feature importance using SHAP (SHapley Additive exPlanations) for interpretability.
